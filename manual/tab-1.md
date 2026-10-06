@@ -1,0 +1,1 @@
+The objective of this game is to help students learn and reinforce their knowledge of chemical elements by matching them with their corresponding properties. The time-bound challenge encourages quick recall, strengthens memory and builds confidence in applying concepts of chemistry in a fun and engaging way.

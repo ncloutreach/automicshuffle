@@ -1,0 +1,1 @@
+This game Improves recall of symbols, properties and applications of elements. Time-bound play develops speed and accuracy in problem-solving. This game also turns abstract concept into an interactive challenge.

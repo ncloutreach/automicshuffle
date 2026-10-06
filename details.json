@@ -1,0 +1,69 @@
+{
+
+    "details": [
+        {
+            "Activity": "Atomic shuffle ",     
+            "Theme": "Match the Elements Using Cards",               
+            "Discipline": "Chemistry",
+            "Age_Group": "V to XII",
+            "Language": "English",			 
+            "Technology": "MP4 and HTML File",
+            "Type_of_content": "Game",
+
+            "ISLEVL": "No",
+            "Institute": "CSIR National Chemical Laboratory, Pune",               
+            "InstituteAcronym": "CSIR-NCL" 
+            }
+    ],
+
+    "principalinvestigator": [
+        {       
+             "PrincipalInvestigator": "Dr. Wafia Masih",              
+             "Institute": "CSIR National Chemical Laboratory, Pune",               
+             "InstituteAcronym": "CSIR-NCL" 
+
+        },
+        {       
+            "PrincipalInvestigator": "",         
+            "Institute": "",         
+            "InstituteAcronym": "" 
+        }
+    ],
+
+    "contributor": [
+        {       
+            "Contributor": "Mrs. Kirti Digholkar",              
+            "Institute": "Pune Institute of Computer Technology,Pune",               
+            "InstituteAcronym": "PICT"         
+        },
+       {
+            "Contributor": "Saurav Shinde",              
+            "Institute": "Pune Institute of Computer Technology,Pune",         
+            "InstituteAcronym": "PICT"   
+        },
+        {
+            "Contributor": "Samyak Bora",              
+            "Institute": "Pune Institute of Computer Technology,Pune",         
+            "InstituteAcronym": "PICT"   
+        },
+        {
+            "Contributor": "Prerna Masure",              
+            "Institute": "Pune Institute of Computer Technology,Pune",         
+            "InstituteAcronym": "PICT"   
+        },
+        {
+            "Contributor": "Samruddhi Sahale",              
+            "Institute": "Pune Institute of Computer Technology,Pune",         
+            "InstituteAcronym": "PICT"   
+        },
+        {
+            "Contributor": "Harsh Kalkar",              
+            "Institute": "Pune Institute of Computer Technology,Pune",         
+            "InstituteAcronym": "PICT"   
+        }
+
+
+
+
+   ]
+}
